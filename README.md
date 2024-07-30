@@ -6,7 +6,7 @@ This is the official code implementation of our WACV paper [CSAM: A 2.5D Cross-S
 
 This is a followup work of our previous work in TMI, [CAT-Net: A Cross-Slice Attention Transformer Model for Prostate Zonal Segmentation in MRI](https://github.com/aL3x-O-o-Hung/CAT-Net)
 
-Our followup MICCAI 2024 paper, Cross-Slice Attention and Evidential Critical Loss for Uncertainty-Aware Prostate Cancer Detection](https://github.com/aL3x-O-o-Hung/GLCSA_ECLoss) 
+Our followup MICCAI 2024 paper, [Cross-Slice Attention and Evidential Critical Loss for Uncertainty-Aware Prostate Cancer Detection](https://github.com/aL3x-O-o-Hung/GLCSA_ECLoss) 
 
 							
 
